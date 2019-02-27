@@ -1,0 +1,73 @@
+{
+                                                              levelName: barrier 30
+                                                              planets: [
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 111.45085
+                                                              		x: -207
+                                                              		y: 1121
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 94.80721
+                                                              		x: 117
+                                                              		y: 1499
+                                                              	}
+                                                              	{
+                                                              		color: orange
+                                                              		comets: []
+                                                              		diameter: 113.425476
+                                                              		x: -350.00003
+                                                              		y: 665
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 243
+                                                              		x2: -455
+                                                              		y: 223
+                                                              		y2: 412
+                                                              	}
+                                                              	{
+                                                              		color1: red
+                                                              		x: 420
+                                                              		x2: 453
+                                                              		y: 1644
+                                                              		y2: 474.99997
+                                                              	}
+                                                              	{
+                                                              		color1: orange
+                                                              		x: 3
+                                                              		x2: -73
+                                                              		y: 907
+                                                              		y2: 562
+                                                              	}
+                                                              	{
+                                                              		x: 454
+                                                              		x2: -75
+                                                              		y: 1148
+                                                              		y2: 1654
+                                                              	}
+                                                              	{
+                                                              		color1: red
+                                                              		x: -181
+                                                              		x2: 86
+                                                              		y: 1340
+                                                              		y2: 1228
+                                                              	}
+                                                              	{
+                                                              		color1: orange
+                                                              		x: -416
+                                                              		x2: -403
+                                                              		y: 1706
+                                                              		y2: 1101
+                                                              	}
+                                                              ]
+                                                              barrierArrows: true
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 33
+                                                              portalx: 229
+                                                              portaly: 946
+                                                              rightBarrier: -1.8152912
+                                                              }

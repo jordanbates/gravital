@@ -1,0 +1,26 @@
+{
+                                                              levelName: w2
+                                                              planets: [
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: 0
+                                                              		y: 530
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: 270
+                                                              		x2: -270
+                                                              		y: 530
+                                                              		y2: 530
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 93
+                                                              portalx: -3
+                                                              portaly: 869
+                                                              rightBarrier: -3.1415927
+                                                              }

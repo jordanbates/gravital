@@ -1,0 +1,24 @@
+{
+                                                               levelName: 3
+                                                               planets: [
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 188.46912
+                                                               		x: -269
+                                                               		y: 807
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 177.2508
+                                                               		x: 277
+                                                               		y: 816
+                                                               	}
+                                                               ]
+                                                               wormholes: []
+                                                               leftBarrier: 0.08726649
+                                                               level: 10
+                                                               portaly: 1300
+                                                               rightBarrier: -3.2288592
+                                                               }

@@ -1,0 +1,35 @@
+{
+                                                              levelName: w4
+                                                              planets: []
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -8
+                                                              		x2: 2
+                                                              		y: 973
+                                                              		y2: 625
+                                                              	}
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: 364
+                                                              		x2: -367
+                                                              		y: 441
+                                                              		y2: 637
+                                                              	}
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -363.00003
+                                                              		x2: 352
+                                                              		y: 969.99994
+                                                              		y2: 995.00006
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 95
+                                                              portalx: 18
+                                                              portaly: 1352
+                                                              rightBarrier: -3.1415927
+                                                              }

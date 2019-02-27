@@ -1,0 +1,18 @@
+{
+                                                              levelName: timing 1
+                                                              planets: [
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: -88
+                                                              		y: 622
+                                                              	}
+                                                              ]
+                                                              wormholes: []
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 55
+                                                              portalMinTime: 2
+                                                              portalx: 301
+                                                              portaly: 616
+                                                              rightBarrier: -3.1415927
+                                                              }

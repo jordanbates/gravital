@@ -1,0 +1,28 @@
+{
+                                                               levelName: 9
+                                                               planets: [
+                                                               	{
+                                                               		color: orange
+                                                               		comets: [
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 292
+                                                               				y: 813
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -292.0843
+                                                               				y: 810.124
+                                                               			}
+                                                               		]
+                                                               		diameter: 200
+                                                               		y: 803
+                                                               	}
+                                                               ]
+                                                               wormholes: []
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 16
+                                                               portalx: 4
+                                                               portaly: 1407
+                                                               rightBarrier: -3.1415927
+                                                               }

@@ -1,0 +1,144 @@
+{
+                                                               levelName: a37
+                                                               planets: [
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 131.34991
+                                                               		x: -11
+                                                               		y: 598
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 84.06586
+                                                               		x: 276
+                                                               		y: 978
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 200
+                                                               		x: -18
+                                                               		y: 810.99994
+                                                               	}
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 82.89778
+                                                               		x: -249
+                                                               		y: 498.99997
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 162.01465
+                                                               		x: 276
+                                                               		y: 718
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: [
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 488.06787
+                                                               				y: 1055
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 563.0679
+                                                               				y: 1055
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 500.4917
+                                                               				y: 1369.5918
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 322.28973
+                                                               				y: 1636.2898
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 55.591736
+                                                               				y: 1814.4917
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -259.00003
+                                                               				y: 1877.0679
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -573.5918
+                                                               				y: 1814.4917
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -840.2898
+                                                               				y: 1636.2898
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -1018.4917
+                                                               				y: 1369.5918
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -1081.0679
+                                                               				y: 1055.0001
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -1018.49176
+                                                               				y: 740.40845
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -840.2899
+                                                               				y: 473.71042
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -573.59186
+                                                               				y: 295.50836
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -259
+                                                               				y: 232.93213
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 55.591858
+                                                               				y: 295.50836
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 322.28998
+                                                               				y: 473.71042
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 500.49182
+                                                               				y: 740.4086
+                                                               			}
+                                                               		]
+                                                               		diameter: 144.13585
+                                                               		x: -259
+                                                               		y: 1055
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -389
+                                                               		x2: 385
+                                                               		y: 779
+                                                               		y2: 205
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 96
+                                                               portalx: -169
+                                                               portaly: 1456
+                                                               rightBarrier: -3.1415927
+                                                               }

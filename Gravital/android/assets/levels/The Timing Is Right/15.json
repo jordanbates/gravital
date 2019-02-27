@@ -1,0 +1,49 @@
+{
+                                                            levelName: karas level
+                                                            planets: [
+                                                            	{
+                                                            		comets: [
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 362.0924
+                                                            				y: 1217
+                                                            			}
+                                                            		]
+                                                            		diameter: 566.18463
+                                                            		x: 4
+                                                            		y: 1217
+                                                            	}
+                                                            	{
+                                                            		color: blue
+                                                            		comets: [
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: -378.98566
+                                                            				y: 897
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: -303.98563
+                                                            				y: 897
+                                                            			}
+                                                            		]
+                                                            		diameter: 84.02855
+                                                            		x: -496
+                                                            		y: 897
+                                                            	}
+                                                            	{
+                                                            		color: orange
+                                                            		comets: []
+                                                            		diameter: 200
+                                                            		x: 439
+                                                            		y: 614
+                                                            	}
+                                                            ]
+                                                            wormholes: []
+                                                            leftBarrier: 4.371139E-8
+                                                            level: 15
+                                                            portalMinTime: 2
+                                                            portalx: -35
+                                                            portaly: 450
+                                                            rightBarrier: -3.1415927
+                                                            }

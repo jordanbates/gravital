@@ -1,0 +1,49 @@
+{
+                                                              levelName: timing 44
+                                                              planets: [
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 599.60913
+                                                              		x: 7
+                                                              		y: 734
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 137
+                                                              				y: 1656
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 212
+                                                              				y: 1636
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 291.00006
+                                                              				y: 1628
+                                                              			}
+                                                              		]
+                                                              		diameter: 139.26677
+                                                              		x: -9
+                                                              		y: 1654.9999
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 442
+                                                              		x2: -438
+                                                              		y: 689
+                                                              		y2: 694
+                                                              	}
+                                                              ]
+                                                              barrierArrows: true
+                                                              leftBarrier: 0.08726649
+                                                              level: 85
+                                                              portalx: 3
+                                                              portaly: 1169
+                                                              rightBarrier: -3.2288592
+                                                              }

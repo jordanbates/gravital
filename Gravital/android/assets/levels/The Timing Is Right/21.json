@@ -1,0 +1,32 @@
+{
+                                                              levelName: timing 20
+                                                              planets: []
+                                                              wormholes: [
+                                                              	{
+                                                              		x: -11
+                                                              		x2: -2
+                                                              		y: 1027
+                                                              		y2: 420
+                                                              	}
+                                                              	{
+                                                              		color1: red
+                                                              		x: -6
+                                                              		x2: -2
+                                                              		y: 1337
+                                                              		y2: 726
+                                                              	}
+                                                              	{
+                                                              		color1: orange
+                                                              		x: 350
+                                                              		x2: -10
+                                                              		y: 227
+                                                              		y2: 1626
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 62
+                                                              portalMinTime: 8
+                                                              portalx: 347
+                                                              portaly: 590
+                                                              rightBarrier: -3.1415927
+                                                              }

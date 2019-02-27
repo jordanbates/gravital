@@ -1,0 +1,55 @@
+{
+                                                              levelName: timer 32
+                                                              planets: [
+                                                              	{
+                                                              		color: blue
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -254.13147
+                                                              				y: 910.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -179.13147
+                                                              				y: 910.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -104.13147
+                                                              				y: 910.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -29.13147
+                                                              				y: 910.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 45.86853
+                                                              				y: 910.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 120.86853
+                                                              				y: 910.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 195.86853
+                                                              				y: 910.00006
+                                                              			}
+                                                              		]
+                                                              		diameter: 85.7371
+                                                              		x: -372
+                                                              		y: 910.00006
+                                                              	}
+                                                              ]
+                                                              wormholes: []
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 73
+                                                              portalMinTime: 8
+                                                              portalx: 190
+                                                              portaly: 1319
+                                                              rightBarrier: -3.1415927
+                                                              }

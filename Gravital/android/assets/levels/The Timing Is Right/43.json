@@ -1,0 +1,38 @@
+{
+                                                              levelName: timing 43
+                                                              planets: []
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 259
+                                                              		x2: 278
+                                                              		y: 812
+                                                              		y2: 1345
+                                                              	}
+                                                              	{
+                                                              		color1: red
+                                                              		x: -261
+                                                              		x2: -259
+                                                              		y: 1078
+                                                              		y2: 815
+                                                              	}
+                                                              	{
+                                                              		color1: orange
+                                                              		x: -4
+                                                              		x2: 268
+                                                              		y: 1350
+                                                              		y2: 1088
+                                                              	}
+                                                              	{
+                                                              		x: -6
+                                                              		x2: -263
+                                                              		y: 820
+                                                              		y2: 1338
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 84
+                                                              portalMinTime: 8
+                                                              portalx: -12
+                                                              portaly: 1077
+                                                              rightBarrier: -3.1415927
+                                                              }

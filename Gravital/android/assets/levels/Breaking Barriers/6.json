@@ -1,0 +1,32 @@
+{
+                                                            levelName: barrier6
+                                                            planets: []
+                                                            wormholes: [
+                                                            	{
+                                                            		x: 270
+                                                            		x2: -451
+                                                            		y: 488
+                                                            		y2: 811
+                                                            	}
+                                                            	{
+                                                            		color1: red
+                                                            		x: -428
+                                                            		x2: -280
+                                                            		y: 1422
+                                                            		y2: 275.00006
+                                                            	}
+                                                            	{
+                                                            		color1: orange
+                                                            		x: -144
+                                                            		x2: 450
+                                                            		y: 1090
+                                                            		y2: 838
+                                                            	}
+                                                            ]
+                                                            barrierArrows: true
+                                                            leftBarrier: 0.08726649
+                                                            level: 6
+                                                            portalx: 120
+                                                            portaly: 1248
+                                                            rightBarrier: -1.5707964
+                                                            }

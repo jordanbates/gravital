@@ -1,0 +1,25 @@
+{
+                                                            levelName: barrier2
+                                                            planets: [
+                                                            	{
+                                                            		comets: []
+                                                            		diameter: 170.08914
+                                                            		x: 8
+                                                            		y: 590
+                                                            	}
+                                                            	{
+                                                            		color: blue
+                                                            		comets: []
+                                                            		diameter: 111.95469
+                                                            		x: 5
+                                                            		y: 897
+                                                            	}
+                                                            ]
+                                                            wormholes: []
+                                                            barrierArrows: true
+                                                            leftBarrier: -0.77143574
+                                                            level: 2
+                                                            portalx: 350
+                                                            portaly: 758
+                                                            rightBarrier: -2.2430294
+                                                            }

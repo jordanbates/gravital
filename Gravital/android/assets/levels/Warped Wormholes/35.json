@@ -1,0 +1,52 @@
+{
+                                                              levelName: ww 35
+                                                              planets: [
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: 357
+                                                              		y: 1020
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: -355
+                                                              		y: 1014.00006
+                                                              	}
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 408.10916
+                                                              		x: -296
+                                                              		y: 380.00006
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 99
+                                                              		x2: -343
+                                                              		y: 1472
+                                                              		y2: 755
+                                                              	}
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -343
+                                                              		x2: 424
+                                                              		y: 1574
+                                                              		y2: 1237
+                                                              	}
+                                                              	{
+                                                              		color1: orange
+                                                              		x: 414
+                                                              		x2: 277
+                                                              		y: 1817
+                                                              		y2: 377
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 6
+                                                              portalx: 9
+                                                              portaly: 1051
+                                                              rightBarrier: -3.1576169
+                                                              }

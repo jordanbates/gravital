@@ -1,0 +1,47 @@
+{
+                                                              levelName: w23
+                                                              planets: [
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 498.4373
+                                                              		x: 290
+                                                              		y: 994.00006
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: -414
+                                                              		y: 114
+                                                              	}
+                                                              	{
+                                                              		color: orange
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: -400.00003
+                                                              		y: 1451
+                                                              	}
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: 370.99994
+                                                              		y: 1695.9999
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -287.99997
+                                                              		x2: 78
+                                                              		y: 441
+                                                              		y2: 1697
+                                                              	}
+                                                              ]
+                                                              barrierArrows: true
+                                                              leftBarrier: -0.0010593693
+                                                              level: 115
+                                                              portalx: 415
+                                                              portaly: 602
+                                                              rightBarrier: -2.3528633
+                                                              }

@@ -1,0 +1,45 @@
+{
+                                                               levelName: a8
+                                                               planets: [
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 176.76334
+                                                               		x: 0
+                                                               		y: 1084
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 133.91283
+                                                               		x: 0
+                                                               		y: 723
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 87.36394
+                                                               		x: 0
+                                                               		y: 416
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: 350
+                                                               		x2: -350
+                                                               		y: 705
+                                                               		y2: 705
+                                                               	}
+                                                               	{
+                                                               		color1: red
+                                                               		x: 350
+                                                               		x2: -350
+                                                               		y: 1080
+                                                               		y2: 1080
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 67
+                                                               portalx: -9
+                                                               portaly: 1459
+                                                               rightBarrier: -3.1415927
+                                                               }

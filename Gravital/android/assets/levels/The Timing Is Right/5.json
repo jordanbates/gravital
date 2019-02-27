@@ -1,0 +1,44 @@
+{
+                                                              levelName: timing 5
+                                                              planets: [
+                                                              	{
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 19
+                                                              				y: 820
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -215
+                                                              				y: 561
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -379
+                                                              				y: 1094
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 28.36554
+                                                              				y: 1011.2364
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 272.27747
+                                                              				y: 820
+                                                              			}
+                                                              		]
+                                                              		diameter: 200
+                                                              		x: -156
+                                                              		y: 820
+                                                              	}
+                                                              ]
+                                                              wormholes: []
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 6
+                                                              portalMinTime: 2
+                                                              portalx: 333
+                                                              portaly: 458.99997
+                                                              rightBarrier: -3.1415927
+                                                              }

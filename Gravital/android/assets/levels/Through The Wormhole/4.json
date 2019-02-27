@@ -1,0 +1,31 @@
+{
+                                                               levelName: a4
+                                                               planets: [
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 200
+                                                               		x: 0
+                                                               		y: 442
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 200
+                                                               		x: 0
+                                                               		y: 1060
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: 290
+                                                               		x2: -290
+                                                               		y: 1075
+                                                               		y2: 1075
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 63
+                                                               portalx: 0
+                                                               portaly: 1440
+                                                               rightBarrier: -3.1415927
+                                                               }

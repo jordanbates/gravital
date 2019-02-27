@@ -1,0 +1,32 @@
+{
+                                                               levelName: a22
+                                                               planets: [
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 119.33887
+                                                               		x: 363
+                                                               		y: 1263
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 82.518456
+                                                               		x: -423
+                                                               		y: 835.00006
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -144
+                                                               		x2: 312
+                                                               		y: 1071
+                                                               		y2: 535
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 81
+                                                               portalx: -189
+                                                               portaly: 1472
+                                                               rightBarrier: -3.1415927
+                                                               }

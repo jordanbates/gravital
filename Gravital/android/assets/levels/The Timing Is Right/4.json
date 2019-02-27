@@ -1,0 +1,18 @@
+{
+                                                              levelName: timing 4
+                                                              planets: []
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 341
+                                                              		x2: -260
+                                                              		y: 821
+                                                              		y2: 548
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 5
+                                                              portalMinTime: 5
+                                                              portalx: 5
+                                                              portaly: 1358
+                                                              rightBarrier: -3.1415927
+                                                              }

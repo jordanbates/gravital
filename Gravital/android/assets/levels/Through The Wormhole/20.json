@@ -1,0 +1,37 @@
+{
+                                                               levelName: a20
+                                                               planets: [
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 85.71296
+                                                               		x: -327
+                                                               		y: 805
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 81.40596
+                                                               		x: -6
+                                                               		y: 900
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: 274
+                                                               		x2: -331
+                                                               		y: 780
+                                                               		y2: 1127
+                                                               	}
+                                                               	{
+                                                               		color1: red
+                                                               		x: 252
+                                                               		x2: -373
+                                                               		y: 1224
+                                                               		y2: 1507
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 79
+                                                               portaly: 1300
+                                                               rightBarrier: -3.1415927
+                                                               }

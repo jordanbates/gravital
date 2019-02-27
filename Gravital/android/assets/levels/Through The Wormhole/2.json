@@ -1,0 +1,25 @@
+{
+                                                               levelName: a2
+                                                               planets: [
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 168.22379
+                                                               		x: -230
+                                                               		y: 502
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -389
+                                                               		x2: 96
+                                                               		y: 774
+                                                               		y2: 1503
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 61
+                                                               portalx: -224
+                                                               portaly: 1640
+                                                               rightBarrier: -3.1415927
+                                                               }

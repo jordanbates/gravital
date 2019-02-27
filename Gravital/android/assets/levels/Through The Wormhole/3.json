@@ -1,0 +1,23 @@
+{
+                                                               levelName: a3
+                                                               planets: []
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -327
+                                                               		x2: -1
+                                                               		y: 630
+                                                               		y2: 613
+                                                               	}
+                                                               	{
+                                                               		x: 260
+                                                               		x2: -373
+                                                               		y: 1352
+                                                               		y2: 1167
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 62
+                                                               portalx: -9
+                                                               portaly: 1670
+                                                               rightBarrier: -3.1415927
+                                                               }

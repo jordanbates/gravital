@@ -1,0 +1,25 @@
+{
+                                                               levelName: a44
+                                                               planets: [
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 365.51312
+                                                               		x: -162
+                                                               		y: 871
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -369
+                                                               		x2: 137
+                                                               		y: 1695
+                                                               		y2: 417
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 103
+                                                               portalx: 382
+                                                               portaly: 1788
+                                                               rightBarrier: -3.1415927
+                                                               }

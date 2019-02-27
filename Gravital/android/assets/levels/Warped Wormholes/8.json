@@ -1,0 +1,74 @@
+{
+                                                              levelName: w8
+                                                              planets: [
+                                                              	{
+                                                              		color: blue
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 343
+                                                              				y: 704
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 418
+                                                              				y: 704
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 300.8427
+                                                              				y: 986.8427
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 18
+                                                              				y: 1104
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -264.8427
+                                                              				y: 986.8427
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -382
+                                                              				y: 704.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -264.8428
+                                                              				y: 421.15738
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 18
+                                                              				y: 304
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 300.84283
+                                                              				y: 421.15738
+                                                              			}
+                                                              		]
+                                                              		diameter: 200
+                                                              		x: 18
+                                                              		y: 704
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: 223
+                                                              		x2: -190
+                                                              		y: 699
+                                                              		y2: 706
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 99
+                                                              portalx: 1
+                                                              portaly: 1305
+                                                              rightBarrier: -3.1415927
+                                                              }

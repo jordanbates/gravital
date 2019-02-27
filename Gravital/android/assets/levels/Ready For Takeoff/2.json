@@ -1,0 +1,15 @@
+{
+                                                               levelName: 2
+                                                               planets: [
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 200
+                                                               		y: 691
+                                                               	}
+                                                               ]
+                                                               wormholes: []
+                                                               leftBarrier: 0.08726649
+                                                               level: 9
+                                                               portaly: 1300
+                                                               rightBarrier: -3.2288592
+                                                               }

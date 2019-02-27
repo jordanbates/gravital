@@ -1,0 +1,13 @@
+{
+	"level":"5",
+	"portalx":"-200",
+	"portaly":"800",
+	"planets":[  
+		{  
+			"x":"300",
+			"y":"800",
+			"diameter":"200"
+			"comets":[]
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+                                                              levelName: w14
+                                                              planets: [
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: 384
+                                                              		y: 709
+                                                              	}
+                                                              	{
+                                                              		color: orange
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -166
+                                                              				y: 855
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -91.00015
+                                                              				y: 855
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				y: 863
+                                                              			}
+                                                              		]
+                                                              		diameter: 200
+                                                              		x: -341
+                                                              		y: 855
+                                                              	}
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 80.057175
+                                                              		x: 440
+                                                              		y: 1729.0001
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -346.99997
+                                                              		x2: 2
+                                                              		y: 1624
+                                                              		y2: 319
+                                                              	}
+                                                              ]
+                                                              barrierArrows: false
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 105
+                                                              portalx: -361.99997
+                                                              portaly: 1379
+                                                              rightBarrier: -3.1415927
+                                                              }

@@ -1,0 +1,24 @@
+{
+                                                               levelName: a49
+                                                               planets: []
+                                                               wormholes: [
+                                                               	{
+                                                               		x: 257
+                                                               		x2: -2
+                                                               		y: 638
+                                                               		y2: 791
+                                                               	}
+                                                               	{
+                                                               		color1: red
+                                                               		x: -277
+                                                               		x2: 3
+                                                               		y: 634
+                                                               		y2: 1078
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 108
+                                                               portalx: -9
+                                                               portaly: 1533
+                                                               rightBarrier: -3.1415927
+                                                               }

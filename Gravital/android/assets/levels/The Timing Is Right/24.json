@@ -1,0 +1,44 @@
+{
+                                                              levelName: timing 23
+                                                              planets: [
+                                                              	{
+                                                              		color: orange
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 205.90436
+                                                              				y: 1358
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -214
+                                                              				y: 1376
+                                                              			}
+                                                              		]
+                                                              		diameter: 269.80872
+                                                              		x: -4
+                                                              		y: 1358
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 264
+                                                              		x2: -279
+                                                              		y: 632
+                                                              		y2: 640
+                                                              	}
+                                                              	{
+                                                              		color1: red
+                                                              		x: 357
+                                                              		x2: -361.99997
+                                                              		y: 1342
+                                                              		y2: 1357
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 65
+                                                              portalMinTime: 8
+                                                              portalx: -5
+                                                              portaly: 662
+                                                              rightBarrier: -3.1415927
+                                                              }

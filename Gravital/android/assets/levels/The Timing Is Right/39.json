@@ -1,0 +1,58 @@
+{
+                                                              levelName: timing 39
+                                                              planets: [
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 84.65378
+                                                              		x: -350.00003
+                                                              		y: 1169
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 82.94908
+                                                              		x: 357
+                                                              		y: 1167
+                                                              	}
+                                                              	{
+                                                              		color: orange
+                                                              		comets: []
+                                                              		diameter: 169.78569
+                                                              		x: -6
+                                                              		y: 1645.0001
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: -92
+                                                              		x2: -439
+                                                              		y: 650
+                                                              		y2: 458.99997
+                                                              	}
+                                                              	{
+                                                              		color1: red
+                                                              		x: 96
+                                                              		x2: 101
+                                                              		y: 643
+                                                              		y2: 998
+                                                              	}
+                                                              	{
+                                                              		color1: orange
+                                                              		x: -261
+                                                              		x2: 448
+                                                              		y: 1537
+                                                              		y2: 431
+                                                              	}
+                                                              	{
+                                                              		x: 257
+                                                              		x2: -79
+                                                              		y: 1531
+                                                              		y2: 992.99994
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 80
+                                                              portalMinTime: 2
+                                                              portaly: 1300
+                                                              rightBarrier: -3.1399586
+                                                              }

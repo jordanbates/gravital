@@ -1,0 +1,56 @@
+{
+                                                              levelName: ww 45
+                                                              planets: [
+                                                              	{
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 566.46094
+                                                              				y: 999
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 549.6033
+                                                              				y: 1083.7494
+                                                              			}
+                                                              		]
+                                                              		diameter: 292.92172
+                                                              		x: 345.00006
+                                                              		y: 999
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -121.28732
+                                                              				y: 1010.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -46.287323
+                                                              				y: 1010.00006
+                                                              			}
+                                                              		]
+                                                              		diameter: 299.42535
+                                                              		x: -346
+                                                              		y: 1010.00006
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -102
+                                                              		x2: 359
+                                                              		y: 473.99997
+                                                              		y2: 1721
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 15
+                                                              portalx: 358
+                                                              portaly: 1374
+                                                              rightBarrier: -3.1415927
+                                                              }

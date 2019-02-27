@@ -1,0 +1,29 @@
+{
+                                                               levelName: 6
+                                                               planets: [
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 200
+                                                               		x: -4
+                                                               		y: 885.00006
+                                                               	}
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 83.20236
+                                                               		x: -2
+                                                               		y: 1238
+                                                               	}
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 80.185005
+                                                               		x: 1
+                                                               		y: 533
+                                                               	}
+                                                               ]
+                                                               wormholes: []
+                                                               leftBarrier: 0.08726649
+                                                               level: 13
+                                                               portaly: 1529
+                                                               rightBarrier: -3.2288592
+                                                               }

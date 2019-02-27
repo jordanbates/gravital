@@ -1,0 +1,57 @@
+{
+                                                               levelName: a10
+                                                               planets: [
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 81.28075
+                                                               		x: -17
+                                                               		y: 666
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 176.22797
+                                                               		x: -191
+                                                               		y: 975
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 162.30853
+                                                               		x: 263
+                                                               		y: 971
+                                                               	}
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 137.05284
+                                                               		x: -326
+                                                               		y: 1294
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 241.70734
+                                                               		x: 310
+                                                               		y: 1452
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -397
+                                                               		x2: 89
+                                                               		y: 761
+                                                               		y2: 903
+                                                               	}
+                                                               	{
+                                                               		color1: red
+                                                               		x: 293
+                                                               		x2: -340
+                                                               		y: 1202
+                                                               		y2: 323
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 69
+                                                               portaly: 1300
+                                                               rightBarrier: -3.1415927
+                                                               }

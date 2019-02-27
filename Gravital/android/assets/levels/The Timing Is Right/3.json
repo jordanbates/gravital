@@ -1,0 +1,19 @@
+{
+                                                              levelName: timing 3
+                                                              planets: [
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 200
+                                                              		x: -25
+                                                              		y: 566
+                                                              	}
+                                                              ]
+                                                              wormholes: []
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 57
+                                                              portalMinTime: 5
+                                                              portalx: -6
+                                                              portaly: 893
+                                                              rightBarrier: -3.1742733
+                                                              }

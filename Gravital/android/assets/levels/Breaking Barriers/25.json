@@ -1,0 +1,49 @@
+{
+                                                              levelName: barrier 25
+                                                              planets: [
+                                                              	{
+                                                              		color: orange
+                                                              		comets: []
+                                                              		diameter: 595.0332
+                                                              		x: 24
+                                                              		y: 1120
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 182.99982
+                                                              				y: 648
+                                                              			}
+                                                              		]
+                                                              		diameter: 113.27208
+                                                              		x: 361
+                                                              		y: 647
+                                                              	}
+                                                              	{
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 388.31598
+                                                              				y: 1654.9999
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 463.31598
+                                                              				y: 1654.9999
+                                                              			}
+                                                              		]
+                                                              		diameter: 80.63197
+                                                              		x: 273
+                                                              		y: 1654.9999
+                                                              	}
+                                                              ]
+                                                              wormholes: []
+                                                              barrierArrows: true
+                                                              leftBarrier: -0.847617
+                                                              level: 28
+                                                              portalx: -427
+                                                              portaly: 1131
+                                                              rightBarrier: -3.2288592
+                                                              }

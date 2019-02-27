@@ -1,0 +1,123 @@
+{
+                                                              levelName: barrier 24
+                                                              planets: [
+                                                              	{
+                                                              		color: blue
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 426.58984
+                                                              				y: 795
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 501.58984
+                                                              				y: 795
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 356.43494
+                                                              				y: 1145.4349
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 6
+                                                              				y: 1290.5898
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -344.43494
+                                                              				y: 1145.4349
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -489.58984
+                                                              				y: 795.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -344.43506
+                                                              				y: 444.56516
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 6
+                                                              				y: 299.41016
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 356.43506
+                                                              				y: 444.5652
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 303.40192
+                                                              				y: 1092.402
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 6
+                                                              				y: 1215.5898
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -291.40192
+                                                              				y: 1092.402
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -414.58984
+                                                              				y: 795.00006
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -291.40204
+                                                              				y: 497.59818
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 6
+                                                              				y: 374.41016
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 303.40204
+                                                              				y: 497.59818
+                                                              			}
+                                                              		]
+                                                              		diameter: 241.17967
+                                                              		x: 6
+                                                              		y: 795
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: -231
+                                                              		x2: 238
+                                                              		y: 811
+                                                              		y2: 805
+                                                              	}
+                                                              ]
+                                                              barrierArrows: true
+                                                              leftBarrier: -0.5875619
+                                                              level: 27
+                                                              portalx: 345
+                                                              portaly: 1439
+                                                              rightBarrier: -2.5699284
+                                                              }

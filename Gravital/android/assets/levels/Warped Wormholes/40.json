@@ -1,0 +1,41 @@
+{
+                                                              levelName: w40
+                                                              planets: [
+                                                              	{
+                                                              		comets: []
+                                                              		diameter: 355.19592
+                                                              		x: -117
+                                                              		y: 551
+                                                              	}
+                                                              	{
+                                                              		color: blue
+                                                              		comets: []
+                                                              		diameter: 304.13922
+                                                              		x: 374.00006
+                                                              		y: 163
+                                                              	}
+                                                              	{
+                                                              		color: orange
+                                                              		comets: []
+                                                              		diameter: 468.87656
+                                                              		x: 303.99994
+                                                              		y: 1673
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -105
+                                                              		x2: -293
+                                                              		y: 1747
+                                                              		y2: 775
+                                                              	}
+                                                              ]
+                                                              barrierArrows: true
+                                                              leftBarrier: -1.5707964
+                                                              level: 107
+                                                              portalx: -311.99997
+                                                              portaly: 117.00001
+                                                              rightBarrier: -2.8313632
+                                                              }

@@ -1,0 +1,39 @@
+{
+                                                              levelName: timing 25
+                                                              planets: [
+                                                              	{
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -246.04309
+                                                              				y: 1148.9996
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -294.43915
+                                                              				y: 920.8676
+                                                              			}
+                                                              		]
+                                                              		diameter: 224.98161
+                                                              		x: -82
+                                                              		y: 995.00006
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 268
+                                                              		x2: -263.99997
+                                                              		y: 987.00006
+                                                              		y2: 625
+                                                              	}
+                                                              ]
+                                                              barrierArrows: true
+                                                              leftBarrier: -0.51045173
+                                                              level: 67
+                                                              portalMinTime: 5
+                                                              portalx: 147
+                                                              portaly: 1404
+                                                              rightBarrier: -2.1745074
+                                                              }

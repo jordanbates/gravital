@@ -1,0 +1,56 @@
+{
+                                                               levelName: a11
+                                                               planets: [
+                                                               	{
+                                                               		comets: [
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 178
+                                                               				y: 680
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -171.61606
+                                                               				y: 691.5859
+                                                               			}
+                                                               		]
+                                                               		diameter: 200
+                                                               		x: 3
+                                                               		y: 680
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 128.81116
+                                                               		x: -15
+                                                               		y: 1243
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 80.49242
+                                                               		x: 229
+                                                               		y: 1552
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 83.35026
+                                                               		x: -266
+                                                               		y: 1543
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -365
+                                                               		x2: 351
+                                                               		y: 544
+                                                               		y2: 533
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 70
+                                                               portalx: -11
+                                                               portaly: 1637
+                                                               rightBarrier: -3.1415927
+                                                               }

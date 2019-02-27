@@ -1,0 +1,30 @@
+{
+                                                              levelName: barrier 27
+                                                              planets: [
+                                                              	{
+                                                              		color: orange
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 39.26111
+                                                              				y: 955
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 339.2611
+                                                              				y: 955
+                                                              			}
+                                                              		]
+                                                              		diameter: 82.52227
+                                                              		x: -77
+                                                              		y: 955
+                                                              	}
+                                                              ]
+                                                              wormholes: []
+                                                              barrierArrows: true
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 30
+                                                              portalx: 201
+                                                              portaly: 956
+                                                              rightBarrier: -1.5707964
+                                                              }

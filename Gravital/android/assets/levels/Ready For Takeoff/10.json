@@ -1,0 +1,38 @@
+{
+                                                               levelName: 10
+                                                               planets: [
+                                                               	{
+                                                               		comets: [
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 74.31543
+                                                               				y: 891
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 149.31543
+                                                               				y: 891
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 224.31543
+                                                               				y: 891
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 299.31543
+                                                               				y: 891
+                                                               			}
+                                                               		]
+                                                               		diameter: 256.63086
+                                                               		x: -129
+                                                               		y: 891
+                                                               	}
+                                                               ]
+                                                               wormholes: []
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 17
+                                                               portalx: 335
+                                                               portaly: 1357
+                                                               rightBarrier: -3.1415927
+                                                               }

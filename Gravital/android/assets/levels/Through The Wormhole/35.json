@@ -1,0 +1,64 @@
+{
+                                                               levelName: a35
+                                                               planets: [
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 83.81283
+                                                               		x: -353
+                                                               		y: 687
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 85.58309
+                                                               		x: 10
+                                                               		y: 343
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 238.22545
+                                                               		x: 86
+                                                               		y: 818.99994
+                                                               	}
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 101.017044
+                                                               		x: -364
+                                                               		y: 1429
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 82.39817
+                                                               		x: 360
+                                                               		y: 358
+                                                               	}
+                                                               	{
+                                                               		comets: []
+                                                               		diameter: 82.51196
+                                                               		x: -356
+                                                               		y: 1081
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 80.339836
+                                                               		x: -353
+                                                               		y: 332
+                                                               	}
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: -367
+                                                               		x2: 332
+                                                               		y: 1268
+                                                               		y2: 1154
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 94
+                                                               portalx: 152
+                                                               portaly: 1591
+                                                               rightBarrier: -3.1415927
+                                                               }

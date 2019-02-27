@@ -1,0 +1,51 @@
+{
+                                                              levelName: w5
+                                                              planets: []
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: 270
+                                                              		x2: -270
+                                                              		y: 451
+                                                              		y2: 278
+                                                              	}
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: 270
+                                                              		x2: -270
+                                                              		y: 269
+                                                              		y2: 92
+                                                              	}
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -270
+                                                              		x2: 270
+                                                              		y: 457
+                                                              		y2: 627
+                                                              	}
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: -270
+                                                              		x2: 270
+                                                              		y: 638
+                                                              		y2: 805
+                                                              	}
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: 270
+                                                              		x2: -270
+                                                              		y: 983
+                                                              		y2: 814
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 96
+                                                              portalx: 263
+                                                              portaly: 1178
+                                                              rightBarrier: -3.1415927
+                                                              }

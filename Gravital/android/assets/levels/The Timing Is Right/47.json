@@ -1,0 +1,84 @@
+{
+                                                              levelName: timing 47
+                                                              planets: [
+                                                              	{
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 371.64612
+                                                              				y: 721
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 314.362
+                                                              				y: 1040.362
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -21
+                                                              				y: 1097.1737
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -324.36203
+                                                              				y: 1040.362
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: 353.76868
+                                                              				y: 446.64752
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: -381.47925
+                                                              				y: 726.1013
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				rotateClockwise: false
+                                                              				x: -307.73218
+                                                              				y: 385.8322
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 37.289795
+                                                              				y: 346.73557
+                                                              			}
+                                                              		]
+                                                              		diameter: 153.29225
+                                                              		x: -5
+                                                              		y: 721
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		x: 6
+                                                              		x2: -209
+                                                              		y: 1662
+                                                              		y2: 900
+                                                              	}
+                                                              	{
+                                                              		color1: red
+                                                              		x: 375
+                                                              		x2: -165
+                                                              		y: 1652
+                                                              		y2: 538
+                                                              	}
+                                                              	{
+                                                              		color1: orange
+                                                              		x: 222
+                                                              		x2: 168
+                                                              		y: 907
+                                                              		y2: 564
+                                                              	}
+                                                              ]
+                                                              barrierArrows: true
+                                                              leftBarrier: -0.58392197
+                                                              level: 88
+                                                              portalMinTime: 5
+                                                              portaly: 1300
+                                                              rightBarrier: -2.5231647
+                                                              }

@@ -1,0 +1,83 @@
+{
+                                                            levelName: barrier23
+                                                            planets: [
+                                                            	{
+                                                            		comets: [
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 112.74292
+                                                            				y: 732
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 187.74292
+                                                            				y: 732
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 262.74292
+                                                            				y: 732
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 337.74292
+                                                            				y: 732
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 411.6524
+                                                            				y: 762.16486
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: -197.25742
+                                                            				y: 718.32837
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: -422.74292
+                                                            				y: 732.00006
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: -347.56473
+                                                            				y: 743.0505
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: -122.489685
+                                                            				y: 739.7183
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: -272.74292
+                                                            				y: 732.00006
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 787.7429
+                                                            				y: 732
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 862.7429
+                                                            				y: 732
+                                                            			}
+                                                            			{
+                                                            				diameter: 25
+                                                            				x: 937.7429
+                                                            				y: 732
+                                                            			}
+                                                            		]
+                                                            		diameter: 85.48591
+                                                            		x: -5
+                                                            		y: 732
+                                                            	}
+                                                            ]
+                                                            wormholes: []
+                                                            barrierArrows: true
+                                                            leftBarrier: -0.6746104
+                                                            level: 26
+                                                            portaly: 1300
+                                                            rightBarrier: -2.465069
+                                                            }

@@ -1,0 +1,51 @@
+{
+                                                               levelName: a18
+                                                               planets: []
+                                                               wormholes: [
+                                                               	{
+                                                               		x: 411
+                                                               		x2: -118
+                                                               		y: 309
+                                                               		y2: 1307
+                                                               	}
+                                                               	{
+                                                               		color1: red
+                                                               		x: -380
+                                                               		x2: -235
+                                                               		y: 371
+                                                               		y2: 500
+                                                               	}
+                                                               	{
+                                                               		color1: orange
+                                                               		x: -445
+                                                               		x2: -44
+                                                               		y: 161
+                                                               		y2: 525
+                                                               	}
+                                                               	{
+                                                               		x: -263
+                                                               		x2: 281
+                                                               		y: 1526
+                                                               		y2: 1521
+                                                               	}
+                                                               	{
+                                                               		color1: red
+                                                               		x: 308
+                                                               		x2: 428
+                                                               		y: 471
+                                                               		y2: 123
+                                                               	}
+                                                               	{
+                                                               		color1: orange
+                                                               		x: 134
+                                                               		x2: 118
+                                                               		y: 516
+                                                               		y2: 1317
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 77
+                                                               portalx: -10
+                                                               portaly: 1656
+                                                               rightBarrier: -3.1415927
+                                                               }

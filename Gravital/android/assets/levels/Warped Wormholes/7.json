@@ -1,0 +1,41 @@
+{
+                                                              levelName: w7
+                                                              planets: [
+                                                              	{
+                                                              		comets: [
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 153.2196
+                                                              				y: 717
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 228.2196
+                                                              				y: 717
+                                                              			}
+                                                              			{
+                                                              				diameter: 25
+                                                              				x: 303.2196
+                                                              				y: 717
+                                                              			}
+                                                              		]
+                                                              		diameter: 122.439285
+                                                              		x: 17
+                                                              		y: 717
+                                                              	}
+                                                              ]
+                                                              wormholes: [
+                                                              	{
+                                                              		color1: multi
+                                                              		multi: true
+                                                              		x: 373
+                                                              		x2: -343
+                                                              		y: 1118
+                                                              		y2: 1123
+                                                              	}
+                                                              ]
+                                                              leftBarrier: 4.371139E-8
+                                                              level: 98
+                                                              portaly: 1300
+                                                              rightBarrier: -3.1415927
+                                                              }

@@ -1,0 +1,18 @@
+{
+                                                               levelName: a1
+                                                               planets: [
+                                                               ]
+                                                               wormholes: [
+                                                               	{
+                                                               		x: 0
+                                                               		x2: 0
+                                                               		y: 500
+                                                               		y2: 1000
+                                                               	}
+                                                               ]
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 61
+                                                               portalx: 0
+                                                               portaly: 1400
+                                                               rightBarrier: -3.1415927
+                                                               }

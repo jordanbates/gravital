@@ -1,0 +1,70 @@
+{
+                                                               levelName: 43
+                                                               planets: [
+                                                               	{
+                                                               		comets: [
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -194.8883
+                                                               				y: 876
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -119.888306
+                                                               				y: 876
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: -44.888306
+                                                               				y: 876
+                                                               			}
+                                                               		]
+                                                               		diameter: 112.22336
+                                                               		x: -326
+                                                               		y: 876
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 200
+                                                               		x: -55
+                                                               		y: 490
+                                                               	}
+                                                               	{
+                                                               		color: orange
+                                                               		comets: []
+                                                               		diameter: 261.07303
+                                                               		x: 156
+                                                               		y: 982
+                                                               	}
+                                                               	{
+                                                               		comets: [
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 481.12085
+                                                               				y: 717
+                                                               			}
+                                                               			{
+                                                               				diameter: 25
+                                                               				x: 246.48633
+                                                               				y: 736.41895
+                                                               			}
+                                                               		]
+                                                               		diameter: 86.24163
+                                                               		x: 363
+                                                               		y: 717
+                                                               	}
+                                                               	{
+                                                               		color: blue
+                                                               		comets: []
+                                                               		diameter: 84.09354
+                                                               		x: 357.99994
+                                                               		y: 1321
+                                                               	}
+                                                               ]
+                                                               wormholes: []
+                                                               leftBarrier: 4.371139E-8
+                                                               level: 52
+                                                               portaly: 1300
+                                                               rightBarrier: -3.1415927
+                                                               }

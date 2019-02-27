@@ -1,0 +1,32 @@
+{
+                                                            levelName: barrier4
+                                                            planets: [
+                                                            	{
+                                                            		color: blue
+                                                            		comets: []
+                                                            		diameter: 80.93525
+                                                            		x: 299.99994
+                                                            		y: 947.99994
+                                                            	}
+                                                            	{
+                                                            		color: orange
+                                                            		comets: []
+                                                            		diameter: 222.0299
+                                                            		x: 281
+                                                            		y: 411
+                                                            	}
+                                                            	{
+                                                            		comets: []
+                                                            		diameter: 135.20363
+                                                            		x: -105
+                                                            		y: 634
+                                                            	}
+                                                            ]
+                                                            wormholes: []
+                                                            barrierArrows: true
+                                                            leftBarrier: -0.8995109
+                                                            level: 4
+                                                            portalx: -5
+                                                            portaly: 1089
+                                                            rightBarrier: -3.1426194
+                                                            }
